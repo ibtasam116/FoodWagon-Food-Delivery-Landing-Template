@@ -119,7 +119,9 @@
 .find {
 
     background: linear-gradient(95.71deg, #FF7A7A -39.64%, #F75900 135.31%);
+    border: none;
     border-radius: 8px;
+
 
 }
 
