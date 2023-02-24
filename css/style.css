@@ -134,11 +134,29 @@
 
 /* End ============ Header ============ */
 
+.menuImages {
+    border-radius: 10px;
+}
+
+.menuTime {
+    background: rgba(241, 114, 40, 0.2);
+    border-radius: 8px;
+    color: #F17228;
+}
 
 
+/* End ============ Header Menus ============ */
 
+.work {
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+}
 
+.doesWork{
+    color: #F17228
+;
+}
 
-
-
-
+.workIcon {
+    font-size: 100px;
+    color: #FFCD1E;
+}
