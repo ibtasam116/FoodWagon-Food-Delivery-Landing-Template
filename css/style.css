@@ -151,12 +151,81 @@
     background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
 }
 
-.doesWork{
-    color: #F17228
-;
+.doesWork {
+    color: #F17228;
 }
 
 .workIcon {
     font-size: 100px;
     color: #FFCD1E;
+}
+
+.iconDetail {
+    font-size: 13px;
+    color: #9E9E9E;
+}
+
+/* End ============ Header Work ============ */
+
+
+.restaurantsImages {
+    border-radius: 10px;
+
+}
+
+.tomorrow {
+    background: rgba(241, 114, 40, 0.2);
+    border-radius: 10px;
+    color: #F17228;
+}
+
+.now {
+    background: rgba(121, 185, 60, 0.2);
+    border-radius: 10px;
+    color: #79B93C;
+}
+
+.restColor {
+    color: #FFB30E;
+}
+
+.pxxx {
+    width: 100%;
+    margin: auto;
+}
+
+.view {
+    border: none;
+    background: linear-gradient(97.86deg, #FFBA26 -8.95%, #FF9A0E 109.24%);
+    /* Shadow/1 */
+    box-shadow: 0px 5px 10px rgba(255, 174, 0, 0.26), 0px 20px 40px rgba(255, 174, 0, 0.29);
+    border-radius: 10px;
+    color: white;
+    font-size: 12px;
+}
+
+
+/* Start ============ Search Food ============ */
+
+.search-food {
+    background: #FEFAF1;
+}
+
+
+.view-all{
+    color: #FFB30E;
+    cursor: pointer;
+}
+.search-lf {
+    background: #FFB30E;
+    border: 1px solid #FAAA01;
+    /* Button shadow ! */
+    box-shadow: 0px 5px 8px rgba(222, 151, 0, 0.24), 0px 14px 32px rgba(255, 178, 14, 0.29);
+    border-radius: 100px;
+    color: white;
+    cursor: pointer;
+}
+
+.search-images{
+    border-radius: 100px;
 }
